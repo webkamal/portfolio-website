@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="public/a08e1cd4b28813bd7e94420befa6042b~tplv-tiktokx-cropcenter_1080_1080.jpeg?fit=crop&w=368&h=368&q=100"
+              src="public/a08e1cd4b28813bd7e94420befa6042b~tplv-tiktokx-cropcenter_1080_1080.jpeg"
               alt="Kamal Khanal"
               width="192"
               height="192"
