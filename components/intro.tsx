@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://siteguru.com.au/wp-content/uploads/2025/03/a08e1cd4b28813bd7e94420befa6042btplv-tiktokx-cropcenter_1080_1080.jpeg"
+              src="https://siteguru.com.au/wp-content/uploads/2025/03/a08e1cd4b28813bd7e94420befa6042btplv-tiktokx-cropcenter_1080_1080.jpeg?fit=crop&w=368&h=368&q=100"
               alt="Kamal Khanal"
               width="192"
               height="192"
