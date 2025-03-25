@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/v2/D4D03AQGICBXwLJRAeQ/profile-displayphoto-shrink_400_400/B4DZXKjMk.HwAg-/0/1742859979833?e=1748476800&v=beta&t=iZMf393HYtwnfEPqqFHLOKhSBEsLdLXwiAcH0Fvks0I"
+              src="https://raw.githubusercontent.com/webkamal/portfolio-website/refs/heads/master/public/a08e1cd4b28813bd7e94420befa6042b%7Etplv-tiktokx-cropcenter_1080_1080.jpeg"
               alt="Kamal Khanal"
               width="192"
               height="192"
