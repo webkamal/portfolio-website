@@ -101,7 +101,7 @@ export const skillsData = [
   "Apollo",
   "Express",
   "PostgreSQL",
-  "Python",
-  "Django",
+  "WordPress"
   "Framer Motion",
+  "Supabase"
 ] as const;
