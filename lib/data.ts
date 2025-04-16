@@ -62,11 +62,11 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Personal Site",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Built using Next.js 13, Next.js Server Actions, Client & Server Components, Context API, React.Email & Resend",
+    tags: ["Next.js", "App Router", "TypeScript", "Tailwind", "Framer Motion"],
+    imageUrl: personalsite,
   },
   {
     title: "rmtDev",
