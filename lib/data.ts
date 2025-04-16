@@ -52,9 +52,9 @@ export const experiencesData = [
   },
   {
     title: "Freelane Web Developer",
-    location: "Marrickville",
+    location: "Sydney",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, MERN and WordPress. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
     date: "2024 - present",
   },
@@ -71,8 +71,8 @@ export const projectsData = [
   {
     title: "Job Borad",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "Job board built for remote developer jobs with Next.js react farmework. It has features like filtering, sorting and pagination.",
+    tags: ["TypeScript", "Next.js", "App Touter", "Server Actions"],
     imageUrl: rmtdevImg,
   },
   {
