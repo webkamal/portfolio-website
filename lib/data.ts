@@ -62,7 +62,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Personal Site",
+    title: "Portfolio Site",
     description:
       "Built using Next.js 13, Next.js Server Actions, Client & Server Components, Context API, React.Email & Resend",
     tags: ["Next.js", "App Router", "TypeScript", "Tailwind", "Framer Motion"],
